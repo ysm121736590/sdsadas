@@ -8,3 +8,5 @@ asdas
 版本2
 
 test1
+
+test_mac
